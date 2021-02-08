@@ -5,14 +5,18 @@
       "text":null,
       "nombre":"A3 Sportback e-tron",
       "imagen":"img\/Audi_A3_Sportback_e-tron.jpg",
-      "precio":"38750","fabricante":"1","tecnologia":"3"
+      "precio":"38750",
+      "fabricante":"1",
+      "tecnologia":"3"
     },
     {
       "id":"2",
       "text":null,
       "nombre":"Q7 e-tron quattro",
       "imagen":"img\/Audi_Q7_e-tron_quattro.jpg",
-      "precio":"83970","fabricante":"1","tecnologia":"3"
+      "precio":"83970",
+      "fabricante":"1",
+      "tecnologia":"3"
     }
   ]
 }
