@@ -105,5 +105,33 @@
     {
       "id":"30","text":null,"nombre":"e-NV200","imagen":"img\/Nissan_E-NV200.jpg","precio":"25342","fabricante":"12","tecnologia":"1"
     }
+  ],
+  "fabricantes" : 
+    [
+      {"id":"1","text":"Audi"},
+      {"id":"2","text":"BMW"},
+      {"id":"3","text":"Citroën"},
+      {"id":"4","text":"Ford"},
+      {"id":"5","text":"Honda"},
+      {"id":"6","text":"Hyundai"},
+      {"id":"7","text":"Jaguar"},
+      {"id":"8","text":"Kia"},
+      {"id":"9","text":"Lexus"},
+      {"id":"10","text":"Mercedes"},
+      {"id":"11","text":"Mitsubishi"},
+      {"id":"12","text":"Nissan"},
+      {"id":"13","text":"Peugeot"},
+      {"id":"14","text":"Porsche"},
+      {"id":"15","text":"Renault"},
+      {"id":"16","text":"Suzuki"},
+      {"id":"17","text":"Tesla"},
+      {"id":"18","text":"Toyota"},
+      {"id":"19","text":"Volvo"},
+      {"id":"20","text":"Volkswagen"}
+    ],
+  "tecnologias" : [
+    {"id":"1","text":"eléctricos"},
+    {"id":"2","text":"híbridos"},
+    {"id":"3","text":"híbridos enchufables"}
   ]
 }
